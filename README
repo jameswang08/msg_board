@@ -1,0 +1,8 @@
+Project:
+Simple message board that requires manually changing URL to navigate site
+
+What I learned:
+-Keeping sensitive information safe using dotenv
+-Connecting a MongoDB DB to my application
+-Working with pug tempaltes
+-Using Express to handle requests
